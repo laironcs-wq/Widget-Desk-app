@@ -45,19 +45,19 @@ Widget Desk includes a collection of desktop widgets:
 
 Показывает виджеты на рабочем столе Windows.
 
-![Widget Desk Desktop](screenshots/desktop.png)
+![Widget Desk Desktop](desktop.png)
 
 ### Widget Library
 
 Управляйте виджетами, просматривайте коллекцию и выбирайте элементы для рабочего стола.
 
-![Widget Desk Library](screenshots/library.png)
+![Widget Desk Library](library.png)
 
 ### Collections
 
 Создавайте и организуйте собственные коллекции виджетов.
 
-![Widget Desk Collections](screenshots/collections.png)
+![Widget Desk Collections](collections.png)
 
 > Чтобы изображения отображались на GitHub, добавьте скриншоты в папку `screenshots` в репозитории и используйте соответствующие имена файлов.
 
