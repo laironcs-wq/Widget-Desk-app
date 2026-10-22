@@ -5,7 +5,7 @@
 Widget Desk — приложение для размещения HTML-виджетов на рабочем столе Windows. Оно позволяет собирать собственную коллекцию виджетов, закреплять их на рабочем столе и настраивать персональное пространство в стиле Liquid Glass.
 
 <p align="center">
-  <img src="desktop.png" alt="Widget Desk — desktop widgets" width="900">
+  <img src="icon.png" alt="Widget Desk — desktop widgets" width="900">
 </p>
 
 <p align="center">
