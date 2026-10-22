@@ -96,6 +96,12 @@ Contributions, ideas, bug reports and suggestions are welcome.
 
 Перед отправкой изменений ознакомьтесь с правилами проекта, если они опубликованы.
 
+## ⬇️ Скачать
+
+Ссылка:
+
+https://github.com/laironcs-wq/Widget-Desk-app/releases/tag/app
+
 ---
 
 <p align="center">
